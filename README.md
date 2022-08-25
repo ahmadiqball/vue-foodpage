@@ -1,6 +1,16 @@
-# video-browser
+# Food Recipes page
+
+Build a food recipe page using VueJs.
+Stack :
+- VueJs
+
+## Github Pages
+[https://ahmadiqball.github.io/cmlab-foodpage](https://ahmadiqball.github.io/cmlab-foodpage)
 
 ## Project setup
+```
+git clone https://github.com/ahmadiqball/cmlab-foodpage
+```
 ```
 npm install
 ```
