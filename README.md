@@ -3,6 +3,7 @@
 Build a food recipe page using VueJs. The recipes data is acquired from themeadldb API. This page will show many food categories that then could show all the foods within categories, and finally the recipe of that food. It show not only the recipe but also a video tutorial to make the food.
 Stack :
 - VueJs
+- Vue Router
 
 ## Github Pages
 [https://ahmadiqball.github.io/cmlab-foodpage](https://ahmadiqball.github.io/cmlab-foodpage)
