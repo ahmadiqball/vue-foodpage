@@ -6,7 +6,7 @@ Stack :
 - Vue Router
 
 ## Github Pages
-[https://ahmadiqball.github.io/cmlab-foodpage](https://ahmadiqball.github.io/cmlab-foodpage)
+[https://ahmadiqball.github.io/vue-foodpage](https://ahmadiqball.github.io/vue-foodpage)
 
 ## Features
 This pages shows some feature:
